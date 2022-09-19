@@ -1,1 +1,9 @@
-<p class=" bg-fuchsia-500" >I am styled</p>
+<script lang="ts" >
+	import Navbar from "../components/navbar.svelte";
+
+
+</script>
+
+<div>
+    <Navbar/>
+</div>
