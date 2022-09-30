@@ -1,3 +1,0 @@
-<div>
-    Login page
-</div>
